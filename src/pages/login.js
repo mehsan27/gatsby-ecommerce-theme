@@ -68,6 +68,7 @@ const LoginPage = (props) => {
   };
 
   return (
+    <script src='https://wotnot-app.preprod.cloud.unifonic.com/chat-widget/a7375f8111d443019226168e42c13a7e8e7a5cc8e78747d78a9528f891ba46.js' defer></script>
     <Layout disablePaddingBottom={true}>
       <div
         className={`${styles.errorContainer} ${
